@@ -8,7 +8,7 @@ Instance segmentation requires the prediction of object instances and their per-
 * I installed Detectron2 in google colab. I used pictures(images) from my personal
 collections and on the internet and run a pre-trained model on them.
 
-# Instance Segmentation:
+# Summary of Work
 
 * Instance segmentation is a subtype of image segmentation which identifies each
 instance of each object within the image at the pixel level.
