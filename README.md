@@ -27,7 +27,18 @@ the coco dateset.
 
 # Requirement
 
-pip install detectron2
+
 
 run the file 
+
+## Important Information
+----------------------------
+
+    -Used Python Version: 3.6.0
+
+    -install  modules with ```pip install detectron2``` command.
+    
+    -Run the file
+    
+ ------------------------------------------------------
 
