@@ -24,3 +24,10 @@ masks.
 * The backbone architecture used here is the ResNet-50 . The data set used is
 the coco dateset.
 
+
+# Requirement
+
+pip install detectron2
+
+run the file 
+
