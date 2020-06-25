@@ -25,11 +25,7 @@ masks.
 the coco dateset.
 
 
-# Requirement
 
-
-
-run the file 
 
 ## Important Information
 ----------------------------
@@ -38,7 +34,7 @@ run the file
 
     -install  modules with ```pip install detectron2``` command.
     
-    -Run the file
+    -Run the file CV_2LAB_1 in colab or jupyter notebook.
     
  ------------------------------------------------------
 
